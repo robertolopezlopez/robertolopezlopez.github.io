@@ -1,4 +1,3 @@
-# Hey there
 
 This is my personal website. I will just add here some links.
 
