@@ -1,7 +1,6 @@
 
 This is my personal website. I will just add here some links.
 
-* [GitHub](https://github.com/robertolopezlopez/).
 * [Linkedin](https://www.linkedin.com/in/robertolopezlopez/).
 
 I am a software engineer, programming enthusiast with focus on backend[^1] and cloud[^2]. Currently using Python and AWS at work[^3]. Based in Kraków, Poland.
