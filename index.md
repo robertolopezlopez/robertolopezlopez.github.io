@@ -7,6 +7,6 @@ I am a software engineer, programming enthusiast with focus on backend[^1] and c
 
 [^1] Do not even try to sell me any frontend related task, please.
 
-[^2] I enjoy tinkering with self hosting as well. Who doesn't nowadays? Back to your monolith!
+[^2] I enjoy tinkering with self hosting as well. Who doesn't nowadays?
 
 [^3] But in reality, I am a gopher enthusiast.
