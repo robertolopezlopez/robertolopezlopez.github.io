@@ -2,11 +2,8 @@
 This is my personal website. I will just add here some links.
 
 * [Linkedin](https://www.linkedin.com/in/robertolopezlopez/).
+* [Goodreads](https://www.goodreads.com/godofredo)
 
-I am a software engineer, programming enthusiast with focus on backend[^1] and cloud[^2]. Currently using Python and AWS at work[^3]. Based in Kraków, Poland.
+I am a programming enthusiast and software engineer with focus on backend and cloud - doing self hosting just for fun. Currently I use Python and AWS at work, but in reality I am a gopher enthusiast. Based in Kraków, Poland.
 
-[^1] Do not even try to sell me any frontend related task, please.
-
-[^2] I enjoy tinkering with self hosting as well. Who doesn't nowadays?
-
-[^3] But in reality, I am a gopher enthusiast.
+I enjoy science fiction books and John Carpenter movies.
