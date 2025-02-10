@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<p><strong>Author:</strong> {{ page.author }}</p>
+<p><strong>Tags:</strong>
+  {% for tag in page.tags %}
+  <a href="{{ site.baseurl }}/tags/{{ tag | slugify }}.html">{{ tag }}</a>
+  {% endfor %}
+</p>
+
+<!-- This is where the post content will appear -->
+<div class="post-content">
+  {{ content }}
+</div>
