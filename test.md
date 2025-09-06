@@ -5,7 +5,9 @@
 - Akamai has good infrastructure, but bad APIs. Specially cloudlets is one of the worst APIs I have ever used, too many inconsistencies.
   - I had to cope with them, as this API was marked "to rewrite" and until then there wouldn't be any fix.
   - Several modifications have been done since my implentation - I am giving you here my last version which dates from Nov 2021
-- I was in charge of developing this terraform resource - you can check [git blame|https://github.com/akamai/terraform-provider-akamai/blob/b342417bd0a41f4e960c91c6f8167f465625dc64/pkg/providers/cloudlets/resource_akamai_cloudlets_policy_activation.go]
+- I was in charge of developing this terraform resource
+  - you can check [my latest version|https://github.com/akamai/terraform-provider-akamai/blob/b342417bd0a41f4e960c91c6f8167f465625dc64/pkg/providers/cloudlets/resource_akamai_cloudlets_policy_activation.go]
+  - enhancements have been done after I left the company, but overall they stick to my solution
 - The terraform-plugin-sdk allows to create resources as CRUD components
   - Create context
   - Read context
@@ -697,7 +699,7 @@ func waitForNotPendingPolicyActivation(ctx context.Context, logger log.Interface
     - `installPython` -> main point of entry: it calls the above two to install all the module requirements
     - All other methods are not used outside of this file
 
-- [Source|https://github.com/akamai/cli/blob/master/pkg/packages/python.go]
+- Here the [source code|https://github.com/akamai/cli/blob/master/pkg/packages/python.go]
 
 ```go
 // Copyright 2018. Akamai Technologies, Inc
