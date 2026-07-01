@@ -3,5 +3,6 @@ plugins:
 - jekyll-remote-theme
 - jekyll-feed
 title: Roberto López López
+description: Backend engineer in Kraków. CLI tooling, security, Go, self-hosting.
 github:
   repo: https://github.com/robertolopezlopez

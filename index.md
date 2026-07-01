@@ -1,6 +1,13 @@
 
 This is my personal website.
 
-I am a programming enthusiast and software engineer with focus on backend and cloud - doing self hosting just for fun. Currently I use Python and AWS at work, but in reality I am a gopher enthusiast. Based in Kraków, Poland.
+I am a programming enthusiast and software engineer with focus on backend, cloud, and developer tooling. I work on CLI and security tooling, mostly in Python and Go. Based in Kraków, Poland. Self-hosting things at home just for fun.
+
+### Selected work
+
+* [Snyk CLI](https://github.com/snyk/cli) - security scanning from the command line
+* [go-application-framework](https://github.com/snyk/go-application-framework) - framework for building CLI extensions
+* [agent-skills](https://github.com/robertolopezlopez/agent-skills) - reusable AI agent skills
+* [tailscale-docker-client](https://github.com/robertolopezlopez/tailscale-docker-client) - ephemeral Tailscale client in Docker
 
 I enjoy mechanical keyboards, science fiction books and John Carpenter movies.
