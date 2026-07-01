@@ -7,6 +7,8 @@ I am a programming enthusiast and software engineer with focus on backend, cloud
 
 * [Snyk CLI](https://github.com/snyk/cli) - security scanning from the command line
 * [go-application-framework](https://github.com/snyk/go-application-framework) - framework for building CLI extensions
+* [Akamai CLI](https://github.com/akamai/cli) - manage and configure Akamai from the command line
+* [Terraform Akamai provider](https://github.com/akamai/terraform-provider-akamai) - infrastructure as code for Akamai
 * [agent-skills](https://github.com/robertolopezlopez/agent-skills) - reusable AI agent skills
 * [tailscale-docker-client](https://github.com/robertolopezlopez/tailscale-docker-client) - ephemeral Tailscale client in Docker
 
